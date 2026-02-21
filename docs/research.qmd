@@ -1,0 +1,43 @@
+---
+title: "Research"
+---
+
+## Publications
+
+::: {.research-item}
+::: {.item-title}
+Decentralized Collective Action in the Protection of Sacred Spaces
+:::
+::: {.item-venue}
+*Public Choice*, 2025
+:::
+::: {.item-links}
+[Published Version](https://link.springer.com/article/10.1007/s11127-025-01341-x){target="_blank"}
+:::
+:::
+
+::: {.research-item}
+::: {.item-title}
+The Case Against Jus Ad Bellum: A Case for Market-Based Solutions to International Security
+:::
+::: {.item-venue}
+*Journal of Markets and Morality* (Forthcoming)
+:::
+::: {.item-links}
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5022563){target="_blank"}
+:::
+:::
+
+## Working Papers
+
+::: {.research-item}
+::: {.item-title}
+The Political Coase Theorem and the Peaceful Domain Abolition of 1871 in Meiji Japan
+:::
+:::
+
+::: {.research-item}
+::: {.item-title}
+Church and State Cooperation: Bishop Opposition in the First Vatican Council
+:::
+:::
